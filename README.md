@@ -1,6 +1,7 @@
 # AL-ML-S1
 
 Course curriculum
+
 Lesson 0 - Course Introduction
 
 Lesson 1 - Introduction to Artificial Intelligence (AI)/ Machine Learning (ML)
